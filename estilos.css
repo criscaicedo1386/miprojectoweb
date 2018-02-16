@@ -1,0 +1,24 @@
+html, body{
+	height: 100%
+}
+body{
+	/*body:lightblue;*/
+	align-items: center;
+	background: linear-gradient(#305BFB,#A677FD);
+	display: flex;
+}
+
+.caja{
+	background: deeppink;
+	border-radius:50%;
+	box-shadow:0.5em 0.5em 0.5em rgba(0,0,0,0.5);
+	height: 400px;
+	margin: 0 auto;
+	width: 20%;
+}
+
+.caja:hover{
+	background:;
+	
+
+}
